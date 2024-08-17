@@ -71,6 +71,7 @@ variable ([[kbd:][SPC h v system-configuration-options]]).
 - Ubuntu or Debian users: ~$ apt-get install libvterm-dev~
 - ArchLinux or Manjaro: ~$ pacman -S libvterm~
 - MacOS: ~$ brew install libvterm~
+- Guix: ~$ guix install emacs-vterm~
 - NixOS:
 
   #+begin_src nix
